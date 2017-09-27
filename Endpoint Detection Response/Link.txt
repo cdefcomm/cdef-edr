@@ -1,0 +1,7 @@
+Bacaan
+-----------------------------------------------------------------------------------------------------------
+1. Lateral Movement, https://attack.mitre.org/wiki/Lateral_Movement
+
+Video
+-----------------------------------------------------------------------------------------------------------
+1. https://www.irongeek.com/i.php?page=videos/derbycon7/t405-hunting-lateral-movement-for-fun-and-profit-mauricio-velazco
